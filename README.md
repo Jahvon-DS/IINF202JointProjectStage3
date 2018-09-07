@@ -1,2 +1,2 @@
 # IINF202JointProjectStage3
-Informatics
+Hello World!
